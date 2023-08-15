@@ -14,7 +14,7 @@ authors      = [
 requires-python = ">=3.10.0"
 
 [project.urls]
-"Homepage" = "https://github.com/home-assistant/frontend"
+"Homepage" = "https://github.com/MrIbrahem/home-assistant-core"
 
 [tool.setuptools]
 platforms = ["any"]
